@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hi there, I'm Eril 👋
 
-<!--
-**Erilocshada/erilocshada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 Information Technology Student at Politeknik Negeri Malang
+* 💻 Interested in Backend Development & Software Engineering
+* 🌐 Interested in Networking & IT Infrastructure
+* 🔥 Currently working with Laravel, React, JavaScript, PHP, and networking technologies
+* 📚 Always learning and continuously developing my skills in programming, frameworks, databases, networking, and other technologies
+* 🚀 Enjoy building projects, exploring new technologies, and turning ideas into real-world applications
+* 🌱 Always open to learning new tools, frameworks, programming languages, and technologies
+* 🎯 Focused on continuous improvement and becoming a better developer every day
+
+## 🛠️ Tech Stack
+
+### Programming
+
+* PHP
+* JavaScript
+* Java
+
+### Framework
+
+* Laravel
+* React
+* Tailwind CSS
+
+### Database
+
+* MySQL
+* PostgreSQL
+
+### Networking
+
+* MikroTik
+* TCP/IP
+* Network Troubleshooting
+
+## 🚀 Projects
+
+### 🏥 Lifeline
+
+Healthcare web application built with Laravel and React.
+
+### 🌐 Network Project
+
+Network installation, configuration, and troubleshooting project.
+
+## 📜 Certification
+
+* MikroTik Certified Network Associate (MTCNA)
+
+## 🎓 Education
+
+**Politeknik Negeri Malang**
+Information Technology
+
+## 📫 Connect With Me
+
+* LinkedIn: [Eril Ocshada](https://linkedin.com/)
+* Instagram: [rillocs_]([https://instagram.com/](https://www.instagram.com/rillocs_/))
+* Email: [erilleo23@email.com](mailto:erilleo23@email.com)
