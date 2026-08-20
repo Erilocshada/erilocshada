@@ -60,5 +60,5 @@ Information Technology
 ## 📫 Connect With Me
 
 * LinkedIn: [Eril Ocshada](https://linkedin.com/)
-* Instagram: [Eril Ocshada]([https://instagram.com/](https://www.instagram.com/rillocs_/))
+* Instagram: [rillocs_]([https://www.instagram.com/rillocs_/])
 * Email: [erilleo23@email.com](mailto:erilleo23@email.com)
