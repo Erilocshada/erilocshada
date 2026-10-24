@@ -62,3 +62,4 @@ Information Technology
 * LinkedIn: [Eril Ocshada](https://linkedin.com/)
 * Instagram: [rillocs_](https://www.instagram.com/rillocs_/)
 * Email: [erilleo23@email.com](mailto:erilleo23@email.com)
+* CV : [Muhammad Pearl Ocshada](https://drive.google.com/drive/folders/1CBGqPCVOpYFEdixuaoff-HIj2I5fg9c3)
